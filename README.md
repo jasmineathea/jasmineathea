@@ -2,11 +2,9 @@
 
 Jeg heter Jasmine og er 24 år gammel. Kort om meg:
 
-* Går mitt tredje år på informatikk: datateknologi ved UiB
-* Går mitt første år på Norges Handelshøyskole (NHH)
+* Snart ferdig med en bachelor i informatikk: datateknologi ved UiB
+* Går mitt andre år på Norges Handelshøyskole (NHH)
 * Kan backend fra studier, lærer meg frontend på fritiden 🌱
-
-Profilbildet mitt er AI-generert, men folk sier vi likner ganske greit 🤓
 
 🌷 Du finner meg (nesten) overalt med samme brukernavn: @jasmineathea
 
