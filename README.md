@@ -2,7 +2,7 @@
 
 Jeg heter Jasmine og er 24 år gammel. Kort om meg:
 
-* Snart ferdig med en bachelor i informatikk: datateknologi ved UiB
+* Har en bachelorgrad i informatikk: datateknologi fra UiB
 * Går mitt andre år på Norges Handelshøyskole (NHH)
 * Kan backend fra studier, lærer meg frontend på fritiden 🌱
 
