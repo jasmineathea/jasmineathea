@@ -1,12 +1,8 @@
 ### 👋 Hei og velkommen!
 
-Jeg heter Jasmine og er 24 år gammel. Kort om meg:
+Jeg fullførte en bachelorgrad i **informatikk: datateknologi** fra Universitetet i Bergen i 2024. Nå går jeg mitt andre år på Norges Handelshøyskole (NHH) 🤓
 
-* Har en bachelorgrad i informatikk: datateknologi fra UiB
-* Går mitt andre år på Norges Handelshøyskole (NHH)
-* Kan backend fra studier, lærer meg frontend på fritiden 🌱
-
-🌷 Du finner meg (nesten) overalt med samme brukernavn: @jasmineathea
+Bli litt bedre kjent med meg på portfolio-nettsiden min, eller sjekk ut noen av prosjektene mine under her!🌼
 
 <!---
 jasmineathea/jasmineathea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
