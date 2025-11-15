@@ -1,6 +1,6 @@
 ### 👋 Hei og velkommen!
 
-Jeg fullførte en bachelorgrad i **informatikk: datateknologi** fra Universitetet i Bergen i 2024. Nå går jeg mitt andre år på Norges Handelshøyskole (NHH)📚
+Jeg fullførte en bachelorgrad i **informatikk: datateknologi** fra Universitetet i Bergen i 2024. Nå går jeg mitt tredje år på Norges Handelshøyskole (NHH)📚
 
 Bli litt bedre kjent med meg på portfolio-nettsiden min, eller sjekk ut noen av prosjektene mine under her! <3
 
